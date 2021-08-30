@@ -1,0 +1,2 @@
+kyro=framework.rpc.serialize.kyro.KryoSerializer
+protostuff=framework.rpc.serialize.protostuff.ProtostuffSerializer
